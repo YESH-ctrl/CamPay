@@ -12,7 +12,7 @@ CamPay is a secure digital platform designed for university campuses, allowing s
 - 👥 **User-Friendly Interface**: Intuitive and easy-to-navigate UI for both students and vendors.
 - 🔗 **Vendor Integration**: Simplified onboarding process for campus vendors.
 
-## 📱 Tech Stack
+## 📱 Tech Stack!!
 
 - **Frontend**: Flutter
 - **Backend**: Node.js with Express
